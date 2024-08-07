@@ -1,0 +1,16 @@
+1. use for, split(), and if to create a statement that will print out letters that start with "s"
+ st= "print only the workds that start with 's' in the statement"
+
+2. Use range() to print all even numbers from 0 to 10
+
+3. Use list comprehension to create a list of all numbes between 1 and 50 that are divisible by 3
+
+4. if the lenght of a word is even then print "even"
+   st= "print every word in this sentence that has an even number of letters"
+
+5. Write a program that prints the integers 1 to 1000 but for multiples of three print "fizz" instead of the number, and for the multiples of five print "buzz" for numbers which are multiples of both three and five prints "fizzbuzz"
+
+6. Use list comprehension to create a list of all the first letters of every word in the string below
+  st= "create a list of the first letters of every word in the string"
+
+
