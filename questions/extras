@@ -1,0 +1,19 @@
+more questions on python list comprehensions
+
+Here are five exercises designed to help you practice and better understand list comprehensions:
+
+Exercise 1: Squares of Even Numbers
+Create a list of squares of all even numbers from 1 to 20.
+
+Exercise 2: Extract Vowels
+Given the string "list comprehensions are awesome", create a list of all the vowels in the string.
+
+Exercise 3: Length of Words
+Given a list of words ["hello", "world", "python", "is", "fun"], create a list that contains the length of each word.
+
+Exercise 4: Words Ending with 'e'
+Given a list of words ["apple", "banana", "cherry", "date", "grape"], create a list of words that end with the letter 'e'.
+
+Exercise 5: Double the Numbers
+Create a list that contains the double of each number in the list [3, 5, 7, 9, 11].
+
